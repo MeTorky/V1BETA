@@ -35,7 +35,6 @@ MeTORKY/
 │
 └── 📜 Legal / الحقوق
     ├── LICENSE (All Rights Reserved to Ahmed M. Sayed)
-    └── Ownership Certificate (AMSAHOT1791997)
 ```
 
 ---
@@ -50,7 +49,6 @@ MeTORKY/
 
 #### 1. Comics Manager V3
 - أداة Offline بتعمل كوميكس مربع (1080) وعريض (1200x675)
-- كود دخول: `AMSAHOT1791997`
 - بتصلح مشكلة النص العربي (Wrapping + No Overlap)
 - تصدير PNG مباشر
 
