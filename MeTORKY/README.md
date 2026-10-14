@@ -1,4 +1,4 @@
-# MeTORKY | Ahmed Tork
+# MeTORKY | ATork
 ### توكلت على الله 🤲 | TORKY - The Thinker
 
 ![MeTORKY Logo](assets/logos/TORKY_GitHub_Logo_1MB.png)
